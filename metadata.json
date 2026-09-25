@@ -1,0 +1,6 @@
+{
+  "name": "História Clínica & Poster Científico - Neurocirurgia",
+  "description": "Formulário digital de história clínica e poster científico interativo para neurocirurgia com anexo de imagens (TAC, RX) e exportação em Word (.docx).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
